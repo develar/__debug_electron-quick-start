@@ -1,5 +1,7 @@
 # electron-quick-start
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/develar/__debug_electron-quick-start.svg)](https://greenkeeper.io/)
+
 **Modified to debug in VSCode**
 
 ## Instructions
